@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">A passionate Data Analytics Batch Manager and Teacher from Berlin</h3>
+<h3 align="center">A passionate Analytics Engineer from Berlin</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
